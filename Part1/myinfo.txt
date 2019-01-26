@@ -1,3 +1,8 @@
 Miral Mahmood
+<<<<<<< HEAD
 804.555.1234
 mahmoodm2
+=======
+23220
+mahmoodm2@mymail.vcu.edu
+>>>>>>> origin
